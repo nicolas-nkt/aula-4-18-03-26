@@ -8,7 +8,7 @@ void main() {
     printf("digite o valor da compra:");
     scanf("%f",&valor);
     
-    if(valor>=50) { 
+    if(valor>50) { 
         
      printf("parabens voce ganhou um brinde");
     }
